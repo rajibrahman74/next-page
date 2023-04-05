@@ -4,7 +4,6 @@ import Book from "./Book";
 
 const Books = () => {
   const { books } = useLoaderData();
-  console.log(books);
 
   return (
     <div className="my-container">
