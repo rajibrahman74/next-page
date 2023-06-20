@@ -16,7 +16,7 @@ The motivation behind this project was to create a robust and engaging web appli
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/rajibrahman74/awesome-chef-client.git`
+1. Clone the repository: `https://github.com/rajibrahman74/next-page.git`
 2. Navigate to the project directory: `cd next-page`
 3. Install the dependencies: `npm install`
 4. Configure Firebase Auth credentials: Add your Firebase configuration in the `.env` file.
@@ -28,9 +28,8 @@ Note: Ensure you have Node.js and MongoDB installed on your system before procee
 ## Usage
 
 1. After starting the development server, the application will be accessible at `http://localhost:5173/`.
-2. Sign up or log in to access the protected pages and utilize the application's features.
-3. Explore the different pages and functionalities to get a better understanding of the project structure and implementation.
-4. Modify and extend the project as needed for your specific requirements.
+2. Explore the different pages and functionalities to get a better understanding of the project structure and implementation.
+3. Modify and extend the project as needed for your specific requirements.
 
 ## Contributing
 
