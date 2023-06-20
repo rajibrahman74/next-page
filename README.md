@@ -19,11 +19,7 @@ The motivation behind this project was to create a robust and engaging web appli
 1. Clone the repository: `https://github.com/rajibrahman74/next-page.git`
 2. Navigate to the project directory: `cd next-page`
 3. Install the dependencies: `npm install`
-4. Configure Firebase Auth credentials: Add your Firebase configuration in the `.env` file.
-5. Configure MongoDB connection: Update the MongoDB connection string in the server configuration files.
-6. Start the development server: `npm run dev`
-
-Note: Ensure you have Node.js and MongoDB installed on your system before proceeding with the installation.
+4. Start the development server: `npm run dev`
 
 ## Usage
 
