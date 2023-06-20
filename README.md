@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a React-based web application that combines various technologies and libraries to provide user authentication with Firebase Auth, responsive UI design with Tailwind CSS, data storage with MongoDB and Node.js, and interactive page transitions using the Swiper library.
+This project is a React-based web application that combines various technologies and libraries to provide responsive UI design with Tailwind CSS.
 
 ## Motivation
 
